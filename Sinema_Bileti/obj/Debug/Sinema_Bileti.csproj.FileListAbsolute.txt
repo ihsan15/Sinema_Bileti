@@ -1,0 +1,6 @@
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\11_12_13 mart ödev\Sinema_Bileti\Sinema_Bileti\bin\Debug\Sinema_Bileti.exe.config
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\11_12_13 mart ödev\Sinema_Bileti\Sinema_Bileti\bin\Debug\Sinema_Bileti.exe
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\11_12_13 mart ödev\Sinema_Bileti\Sinema_Bileti\bin\Debug\Sinema_Bileti.pdb
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\11_12_13 mart ödev\Sinema_Bileti\Sinema_Bileti\obj\Debug\Sinema_Bileti.csprojResolveAssemblyReference.cache
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\11_12_13 mart ödev\Sinema_Bileti\Sinema_Bileti\obj\Debug\Sinema_Bileti.exe
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\11_12_13 mart ödev\Sinema_Bileti\Sinema_Bileti\obj\Debug\Sinema_Bileti.pdb
